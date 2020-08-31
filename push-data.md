@@ -1,6 +1,6 @@
 ## API
 
-Base URL : https://system.dinos.click/api/v1/push_data
+Base URL : https://api.dinos.vn/api/v1/push_data
 
 ### 1. Post data
 
