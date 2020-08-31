@@ -13,7 +13,7 @@ Base URL : https://system.dinos.click/api/v1/push_data
     {	
         "name": "network test",
         "phone": "093xxx9123",
-        "affiliate_network": "X-MARVEL",
+        "affiliate_network": "Zawa",
         "address": "Ha Noi",
         "subid": "xxx",
         "sub_2": "id_conversion_net"
