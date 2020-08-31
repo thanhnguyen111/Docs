@@ -6,8 +6,6 @@ Base URL : https://api.dinos.vn/api/v1/push_data
 
 >METHOD: POST
 
->HEADER : “Authorization: Bearer {access_token}”
-
 >BODY: 
 
     {	
